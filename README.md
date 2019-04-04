@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+tittle: Welcome to nhorav github page
+description: lets learn something
 
 You can use the [editor on GitHub](https://github.com/nhorav/nhorav.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
